@@ -1,4 +1,4 @@
-module.exports = intruction = {
+module.exports = {
     linha1: {
         coluna1: '7',
         coluna2: '8',

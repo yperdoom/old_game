@@ -1,4 +1,4 @@
-module.exports = matriz = {
+module.exports = {
     linha1: {
         coluna1: ' ',
         coluna2: ' ',
